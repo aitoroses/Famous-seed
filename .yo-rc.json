@@ -1,0 +1,12 @@
+{
+  "generator-famous": {
+    "projectName": "experience",
+    "projectDesc": "Seed project to get started with Famo.us",
+    "authorLogin": "",
+    "author": {
+      "name": "Aitor Oses",
+      "email": "aitor.oses@gmail.com"
+    },
+    "noTinfoil": true
+  }
+}
